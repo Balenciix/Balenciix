@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey, I'm Gabby 👋 &nbsp;`@GabbyCodes`
 
-<!--
-**Balenciix/Balenciix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Still learning. Always building. Occasionally debugging at midnight.*
 
-Here are some ideas to get you started:
+I'm a student developer and Computer Science major on a mission — to grow
+into the kind of engineer who makes tech a little more diverse, a little more
+inclusive, and a lot more interesting. As a Black woman in tech, I'm here to
+take up space, write good code, and open doors for the people coming after me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📚 Relevant Coursework
+
+**Currently Taking:**
+- 🐍 Python Programming
+- 🌐 Web Development (HTML, CSS & JavaScript)
+- 🖥️ CompTIA A+ (IT Fundamentals & Hardware)
+
+**Completed:**
+- 🐧 Linux Operating Systems
+- 💡 Intro to Computing
+- ⚙️ C++ Programming
+- 🍎 Swift Programming
+
+---
+
+## 🌱 Right now I'm...
+- 🔨 Building projects (and learning a ton along the way)
+- 📬 Open to internship opportunities — let's connect!
+- 📚 Growing every day, one commit at a time
+- 💡 Passionate about bringing more diversity into tech
+
+---
+
+## 🎮 Fun facts about me
+- I'm a PC gamer at heart — you can catch me in **Overwatch** (don't ask about
+  my rank 😅)
+- Huge anime fan 🗡️ Current favorites: **Demon Slayer**, **Dandadan**, and
+  the one and only **Attack on Titan**
+- I chose CS not just for the career, but for the *community* — I want to be
+  the representation I wished I saw when I started
+
+---
+
+## 📫 Let's connect
+If you're working on something cool or just want to say hi — my inbox is open.
+I'm always happy to collaborate or chat about code (or anime 👀).
+
+---
+
+*"Every expert was once a beginner."* ✨
