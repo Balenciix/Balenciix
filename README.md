@@ -1,4 +1,4 @@
-# Hey, I'm Gabby 👋 &nbsp;`@GabbyCodes`
+# Hey, I'm Gabby 👋🏽 &nbsp;`@GabbyCodes`
 
 > *Still learning. Always building. Occasionally debugging at midnight.*
 
