@@ -21,16 +21,15 @@ take up space, write good code, and open doors for the people coming after me.
 
 ## 📚 Relevant Coursework
 
-**Currently Taking:**
-- 🐍 Python Programming
-- 🌐 Web Development (HTML, CSS & JavaScript)
-- 🖥️ CompTIA A+ (IT Fundamentals & Hardware)
 
 **Completed:**
 - 🐧 Linux Operating Systems
 - 💡 Intro to Computing
 - ⚙️ C++ Programming
 - 🍎 Swift Programming
+- 🐍 Python Programming
+- 🌐 Web Development (HTML, CSS & JavaScript)
+- 🖥️ CompTIA A+ (IT Fundamentals & Hardware)
 
 ---
 
