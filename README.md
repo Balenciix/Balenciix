@@ -15,7 +15,7 @@ CS student and aspiring front-end developer focused on writing clean code and bu
 ---
 
 ## 💻 Tech Stack
-[![Skills](https://skills.syvixor.com/api/icons?i=javascript,html,css3,python,tailwindcss,reactjs,nextjs,typescript,flask)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=javascript,html,css3,python,tailwindcss,reactjs,node,nextjs,typescript,flask)](https://github.com/syvixor/skills-icons)
 ## 🛠️ Tools and Apps
 [![Skills](https://skills.syvixor.com/api/icons?i=apple,windows,cursor,claudeai,visualstudiocode,figma,vercel,slack,git,github)](https://github.com/syvixor/skills-icons)
 
